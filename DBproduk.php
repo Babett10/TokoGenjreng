@@ -29,8 +29,8 @@
     </div>
 
     <div class="container-md col-md-12">
-    <h1>Data Pelanggan </h1>
-        <a class="btn btn-primary mb-3" href="DBprodukTambah.php" role="button">Tambah Data Pelanggan</a>
+    <h1>Data Produk </h1>
+        <a class="btn btn-primary mb-3" href="DBprodukTambah.php" role="button">Tambah Data Produk</a>
         <?php
             //panggil DB
             include("connection.php");
