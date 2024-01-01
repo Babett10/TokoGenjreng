@@ -126,7 +126,7 @@
               <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up">
                 <div class="block-4 text-center border">
                   <figure class="block-4-image">
-                    <img src="images/<?php echo $data["gambar"]?>" style="width: 70%; margin: auto;"  alt="Image placeholder" class="img-fluid">
+                    <img src="images/<?php echo $data["gambar"]?>" style="width: 100%; margin-left: 80px;"  alt="Image placeholder" class="img-fluid">
                   </figure>
                   <div class="block-4-text p-4">
                     <h3><a href="produk_detail.php?id=<?php echo $data['id_produk']?>"><?php echo $data["nama_produk"]?></a></h3>
